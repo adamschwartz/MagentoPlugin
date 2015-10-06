@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Eager_Embed>
+            <version>1.0.0</version>
+        </Eager_Embed>
+    </modules>
+
+    <global>
+        <layouts>
+            <default>
+                <reference name="head">
+                    <block type="core/text" name="eager_embed_block">
+                        <action method="setText">
+                            <text><![CDATA[
+		                            <script data-cf-async="false" src="//fast.eager.io/{{.EmbedCode}}.js"></script>
+                            //]]></text>
+                        </action>
+                    </block>
+                </reference>
+            </default>
+        </layouts>
+    </global>
+</config>
