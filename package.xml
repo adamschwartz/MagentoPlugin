@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Eager_Embed</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>MIT</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Install Eager apps onto your Magento website.</summary>
+    <description>Eager is the most powerful way to add interactive elements to your website.  Use the Eager Magento plugin to add Eager to your website.</description>
+    <notes>Initial release</notes>
+    <authors><author><name>Zack Bloom</name><user>eager</user><email>zack@eger.io</email></author></authors>
+    <date>2015-10-07</date>
+    <time>21:33:59</time>
+    <contents><target name="magelocal"><dir/></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>5.10.10</max></php></required></dependencies>
+</package>

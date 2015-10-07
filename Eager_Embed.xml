@@ -1,0 +1,85 @@
+<_>
+   <form_key>lpjn0Xbk0Gqgfs1t</form_key>
+   <_create/>
+   <name>Eager_Embed</name>
+   <channel>community</channel>
+   <version_ids>
+      <version_ids>2</version_ids>
+   </version_ids>
+   <summary>Install Eager apps onto your Magento website.</summary>
+   <description>Eager is the most powerful way to add interactive elements to your website.  Use the Eager Magento plugin to add Eager to your website.</description>
+   <license>MIT</license>
+   <license_uri/>
+   <version>1.0.0</version>
+   <stability>stable</stability>
+   <notes>Initial release</notes>
+   <authors>
+      <name>
+         <name>Zack Bloom</name>
+      </name>
+      <user>
+         <user>eager</user>
+      </user>
+      <email>
+         <email>zack@eger.io</email>
+      </email>
+   </authors>
+   <depends_php_min>5.0.0</depends_php_min>
+   <depends_php_max>5.10.10</depends_php_max>
+   <depends>
+      <package>
+         <name>
+            <name/>
+         </name>
+         <channel>
+            <channel/>
+         </channel>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <files>
+            <files>   </files>
+         </files>
+      </package>
+      <extension>
+         <name>
+            <name>Core</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+      </extension>
+   </depends>
+   <contents>
+      <target>
+         <target>magelocal</target>
+         <target>magelocal</target>
+      </target>
+      <path>
+         <path/>
+         <path/>
+      </path>
+      <type>
+         <type>file</type>
+         <type>file</type>
+      </type>
+      <include>
+         <include/>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+         <ignore/>
+      </ignore>
+   </contents>
+   <page>1</page>
+   <limit>200</limit>
+   <folder/>
+   <package/>
+</_>
